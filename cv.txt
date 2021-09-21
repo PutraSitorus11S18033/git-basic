@@ -1,1 +1,4 @@
-"Ini adalah Filr CV"
+"Ini adalah File CV"
+Perusahaan yang dilamar : 
+1.Skilvull
+
