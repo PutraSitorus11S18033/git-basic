@@ -1,0 +1,6 @@
+"Ini adalah File CV"
+Perusahaan yang dilamar : 
+1.Skilvull
+2.GOJEK 
+3.TIcket
+
